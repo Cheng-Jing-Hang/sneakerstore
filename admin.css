@@ -1,0 +1,33 @@
+a{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
+body{
+    background-color: rgb(235, 169, 169);
+}
+table {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: rgb(245, 203, 243);
+}
+th {
+    border: 1px solid #070707;
+    padding: 12px;
+    background-color: #000000c7;
+    color: white;
+}
+td{
+    border: 0.5px solid #273d2d;
+}
+h2 {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+}
+
+.exitdata{
+    text-align: right;
+}
+
